@@ -1,5 +1,7 @@
 # Доказательство корректности Quicksort c Fstar
 
+[Туториал по F*](https://fstar-lang.org/tutorial/book/part1/part1_quicksort.html)
+
 При доказательстве использовались:
 
 - F* версии `F* 2026.03.24`. [Репозиторий F*](https://github.com/FStarLang/fstar).
